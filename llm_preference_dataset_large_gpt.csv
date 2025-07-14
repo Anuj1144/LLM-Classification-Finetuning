@@ -1,0 +1,701 @@
+id,model_a,model_b,prompt,response_a,response_b,winner_model_a,winner_model_b,winner_tie
+2400,nous-hermes-2-mixtral-8x7b-dpo,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2401,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2402,gpt-neo,gpt-4,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+2403,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2404,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2405,mistral-medium,openchat,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2406,claude-3-sonnet,mistral-medium,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2407,gpt-3.5,nous-hermes-2-mixtral-8x7b-dpo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2408,gpt-4,claude-3-sonnet,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2409,openchat,claude-3-sonnet,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2410,gpt-4,claude-3-sonnet,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2411,gpt-4,claude-3-sonnet,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2412,mistral-medium,gpt-3.5,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2413,gpt-3.5,gpt-4,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2414,openchat,mistral-medium,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2415,gpt-3.5,nous-hermes-2-mixtral-8x7b-dpo,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2416,openchat,nous-hermes-2-mixtral-8x7b-dpo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2417,mistral-medium,gpt-3.5,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2418,gpt-3.5,mistral-medium,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2419,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2420,gpt-3.5,nous-hermes-2-mixtral-8x7b-dpo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+2421,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+2422,gpt-4,mistral-medium,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2423,gpt-3.5,gpt-4,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2424,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2425,claude-3-sonnet,gpt-neo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2426,gpt-4,openchat,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2427,gpt-3.5,nous-hermes-2-mixtral-8x7b-dpo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2428,gpt-4,gpt-3.5,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+2429,gpt-4,mistral-medium,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+2430,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2431,gpt-4,gpt-3.5,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2432,nous-hermes-2-mixtral-8x7b-dpo,claude-3-sonnet,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2433,gpt-4,openchat,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2434,mistral-medium,openchat,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2435,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2436,claude-3-sonnet,openchat,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2437,claude-3-sonnet,mistral-medium,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2438,gpt-4,claude-3-sonnet,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2439,openchat,nous-hermes-2-mixtral-8x7b-dpo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2440,gpt-neo,openchat,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2441,gpt-neo,claude-3-sonnet,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2442,claude-3-sonnet,mistral-medium,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2443,gpt-3.5,claude-3-sonnet,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2444,openchat,gpt-neo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2445,gpt-4,openchat,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2446,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2447,nous-hermes-2-mixtral-8x7b-dpo,gpt-4,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2448,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2449,mistral-medium,openchat,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2450,gpt-4,claude-3-sonnet,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2451,gpt-4,claude-3-sonnet,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2452,gpt-4,claude-3-sonnet,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+2453,gpt-4,openchat,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2454,mistral-medium,gpt-3.5,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2455,gpt-3.5,gpt-4,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2456,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2457,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2458,gpt-3.5,openchat,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+2459,mistral-medium,claude-3-sonnet,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+2460,openchat,gpt-3.5,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2461,mistral-medium,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2462,openchat,gpt-3.5,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2463,claude-3-sonnet,openchat,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2464,gpt-4,openchat,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2465,gpt-4,mistral-medium,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2466,mistral-medium,gpt-neo,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2467,gpt-3.5,gpt-4,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2468,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+2469,mistral-medium,gpt-neo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2470,openchat,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2471,mistral-medium,gpt-neo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2472,claude-3-sonnet,gpt-4,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2473,gpt-neo,gpt-3.5,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2474,nous-hermes-2-mixtral-8x7b-dpo,openchat,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2475,claude-3-sonnet,gpt-4,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2476,mistral-medium,claude-3-sonnet,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2477,gpt-4,openchat,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+2478,openchat,gpt-3.5,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2479,openchat,claude-3-sonnet,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2480,nous-hermes-2-mixtral-8x7b-dpo,claude-3-sonnet,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2481,gpt-4,openchat,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2482,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2483,openchat,gpt-3.5,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2484,gpt-3.5,nous-hermes-2-mixtral-8x7b-dpo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+2485,gpt-3.5,nous-hermes-2-mixtral-8x7b-dpo,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2486,gpt-4,claude-3-sonnet,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2487,gpt-4,claude-3-sonnet,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2488,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2489,gpt-neo,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2490,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2491,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2492,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2493,nous-hermes-2-mixtral-8x7b-dpo,claude-3-sonnet,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2494,gpt-3.5,gpt-neo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2495,mistral-medium,gpt-4,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2496,gpt-3.5,claude-3-sonnet,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+2497,mistral-medium,gpt-3.5,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2498,mistral-medium,openchat,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2499,gpt-3.5,gpt-neo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2500,mistral-medium,openchat,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2501,gpt-3.5,claude-3-sonnet,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2502,gpt-3.5,gpt-neo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2503,gpt-3.5,gpt-neo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2504,gpt-3.5,claude-3-sonnet,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2505,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2506,claude-3-sonnet,mistral-medium,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2507,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2508,claude-3-sonnet,gpt-neo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2509,mistral-medium,gpt-neo,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2510,mistral-medium,claude-3-sonnet,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2511,openchat,gpt-3.5,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2512,openchat,gpt-4,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2513,gpt-3.5,openchat,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2514,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2515,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2516,gpt-4,gpt-neo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2517,gpt-3.5,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2518,mistral-medium,gpt-4,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2519,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2520,openchat,gpt-neo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2521,claude-3-sonnet,mistral-medium,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2522,gpt-neo,claude-3-sonnet,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2523,gpt-4,nous-hermes-2-mixtral-8x7b-dpo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2524,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2525,gpt-3.5,gpt-4,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2526,openchat,mistral-medium,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2527,gpt-4,mistral-medium,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2528,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2529,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2530,openchat,gpt-4,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2531,gpt-neo,mistral-medium,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2532,claude-3-sonnet,gpt-neo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2533,gpt-4,mistral-medium,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2534,gpt-neo,claude-3-sonnet,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2535,nous-hermes-2-mixtral-8x7b-dpo,gpt-4,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2536,gpt-neo,mistral-medium,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2537,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2538,openchat,nous-hermes-2-mixtral-8x7b-dpo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2539,mistral-medium,claude-3-sonnet,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2540,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2541,claude-3-sonnet,openchat,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2542,gpt-4,claude-3-sonnet,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2543,gpt-3.5,gpt-neo,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2544,gpt-3.5,gpt-neo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2545,gpt-neo,gpt-3.5,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2546,gpt-3.5,openchat,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2547,mistral-medium,claude-3-sonnet,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2548,mistral-medium,gpt-3.5,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2549,gpt-3.5,nous-hermes-2-mixtral-8x7b-dpo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2550,mistral-medium,openchat,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2551,mistral-medium,gpt-neo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2552,gpt-3.5,gpt-4,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2553,gpt-4,claude-3-sonnet,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2554,nous-hermes-2-mixtral-8x7b-dpo,openchat,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2555,mistral-medium,openchat,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2556,gpt-neo,claude-3-sonnet,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2557,openchat,nous-hermes-2-mixtral-8x7b-dpo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2558,claude-3-sonnet,openchat,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+2559,nous-hermes-2-mixtral-8x7b-dpo,claude-3-sonnet,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2560,mistral-medium,gpt-neo,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2561,nous-hermes-2-mixtral-8x7b-dpo,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2562,gpt-neo,openchat,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2563,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2564,gpt-4,openchat,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2565,gpt-4,gpt-neo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2566,gpt-4,mistral-medium,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2567,claude-3-sonnet,gpt-neo,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2568,gpt-neo,openchat,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2569,claude-3-sonnet,mistral-medium,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+2570,mistral-medium,gpt-4,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2571,gpt-4,gpt-neo,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2572,gpt-4,openchat,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2573,openchat,nous-hermes-2-mixtral-8x7b-dpo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2574,gpt-4,claude-3-sonnet,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2575,mistral-medium,gpt-4,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2576,gpt-4,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2577,gpt-3.5,nous-hermes-2-mixtral-8x7b-dpo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2578,mistral-medium,gpt-3.5,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2579,mistral-medium,gpt-neo,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+2580,gpt-neo,gpt-4,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2581,gpt-neo,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2582,openchat,mistral-medium,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2583,claude-3-sonnet,gpt-3.5,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2584,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2585,gpt-4,mistral-medium,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2586,mistral-medium,claude-3-sonnet,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2587,openchat,claude-3-sonnet,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2588,claude-3-sonnet,gpt-3.5,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2589,gpt-4,nous-hermes-2-mixtral-8x7b-dpo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2590,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2591,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2592,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2593,mistral-medium,claude-3-sonnet,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2594,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2595,nous-hermes-2-mixtral-8x7b-dpo,claude-3-sonnet,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2596,claude-3-sonnet,openchat,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2597,gpt-4,mistral-medium,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2598,gpt-4,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2599,claude-3-sonnet,openchat,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,1.0,0.0
+2600,gpt-4,gpt-neo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2601,gpt-neo,gpt-3.5,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2602,gpt-3.5,mistral-medium,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2603,gpt-3.5,openchat,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,1.0,0.0
+2604,gpt-neo,openchat,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+2605,claude-3-sonnet,gpt-3.5,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2606,gpt-4,openchat,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2607,claude-3-sonnet,mistral-medium,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2608,gpt-neo,mistral-medium,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2609,gpt-neo,gpt-3.5,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+2610,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2611,claude-3-sonnet,openchat,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2612,gpt-neo,openchat,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2613,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+2614,claude-3-sonnet,gpt-4,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2615,gpt-3.5,gpt-neo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2616,openchat,claude-3-sonnet,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2617,openchat,claude-3-sonnet,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2618,mistral-medium,claude-3-sonnet,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2619,claude-3-sonnet,mistral-medium,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2620,mistral-medium,claude-3-sonnet,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2621,gpt-neo,openchat,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2622,gpt-neo,openchat,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2623,openchat,claude-3-sonnet,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+2624,gpt-neo,gpt-3.5,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+2625,gpt-3.5,gpt-4,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,1.0,0.0
+2626,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+2627,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2628,gpt-4,claude-3-sonnet,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2629,mistral-medium,openchat,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2630,openchat,gpt-neo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2631,gpt-neo,gpt-4,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+2632,gpt-neo,gpt-4,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2633,gpt-4,gpt-3.5,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2634,gpt-4,openchat,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2635,gpt-3.5,mistral-medium,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2636,gpt-3.5,gpt-neo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2637,gpt-neo,gpt-4,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2638,mistral-medium,gpt-neo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2639,mistral-medium,gpt-3.5,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2640,gpt-3.5,claude-3-sonnet,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2641,claude-3-sonnet,gpt-4,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2642,claude-3-sonnet,gpt-3.5,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2643,gpt-neo,mistral-medium,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2644,gpt-4,gpt-neo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2645,gpt-3.5,mistral-medium,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+2646,gpt-3.5,gpt-4,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2647,gpt-4,mistral-medium,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+2648,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2649,mistral-medium,claude-3-sonnet,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2650,gpt-3.5,claude-3-sonnet,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2651,mistral-medium,openchat,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2652,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2653,claude-3-sonnet,mistral-medium,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2654,gpt-neo,gpt-3.5,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2655,mistral-medium,gpt-neo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2656,gpt-4,mistral-medium,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2657,openchat,gpt-neo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2658,claude-3-sonnet,gpt-3.5,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2659,claude-3-sonnet,gpt-neo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2660,gpt-4,gpt-3.5,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2661,openchat,gpt-neo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2662,nous-hermes-2-mixtral-8x7b-dpo,openchat,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2663,openchat,claude-3-sonnet,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+2664,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2665,gpt-4,mistral-medium,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2666,claude-3-sonnet,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2667,gpt-3.5,openchat,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+2668,openchat,gpt-neo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2669,gpt-4,gpt-3.5,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2670,claude-3-sonnet,gpt-4,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2671,openchat,gpt-neo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2672,nous-hermes-2-mixtral-8x7b-dpo,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2673,gpt-4,nous-hermes-2-mixtral-8x7b-dpo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2674,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2675,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,1.0,0.0
+2676,claude-3-sonnet,mistral-medium,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+2677,openchat,gpt-3.5,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2678,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2679,mistral-medium,claude-3-sonnet,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+2680,gpt-4,claude-3-sonnet,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2681,gpt-4,mistral-medium,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+2682,gpt-4,gpt-neo,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2683,openchat,nous-hermes-2-mixtral-8x7b-dpo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2684,openchat,gpt-3.5,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2685,gpt-4,gpt-3.5,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+2686,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+2687,gpt-4,claude-3-sonnet,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2688,openchat,mistral-medium,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2689,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2690,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2691,gpt-neo,gpt-3.5,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2692,openchat,gpt-4,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2693,gpt-3.5,openchat,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2694,gpt-neo,openchat,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2695,gpt-neo,openchat,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2696,openchat,gpt-3.5,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2697,gpt-3.5,gpt-4,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2698,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2699,gpt-4,gpt-neo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+2700,mistral-medium,openchat,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2701,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2702,claude-3-sonnet,gpt-3.5,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2703,gpt-neo,gpt-3.5,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2704,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+2705,mistral-medium,openchat,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2706,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,1.0,0.0
+2707,gpt-4,nous-hermes-2-mixtral-8x7b-dpo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2708,mistral-medium,claude-3-sonnet,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2709,mistral-medium,openchat,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2710,openchat,gpt-3.5,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2711,claude-3-sonnet,gpt-3.5,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2712,mistral-medium,gpt-3.5,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2713,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2714,claude-3-sonnet,gpt-neo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2715,gpt-3.5,gpt-4,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2716,gpt-4,gpt-3.5,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+2717,openchat,gpt-3.5,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2718,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2719,gpt-neo,gpt-4,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2720,openchat,mistral-medium,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2721,gpt-neo,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2722,gpt-4,gpt-3.5,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2723,gpt-3.5,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2724,gpt-neo,gpt-3.5,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2725,openchat,claude-3-sonnet,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2726,mistral-medium,claude-3-sonnet,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2727,gpt-3.5,mistral-medium,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2728,gpt-3.5,nous-hermes-2-mixtral-8x7b-dpo,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2729,claude-3-sonnet,gpt-4,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2730,gpt-3.5,claude-3-sonnet,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2731,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2732,gpt-3.5,gpt-neo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2733,openchat,mistral-medium,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2734,claude-3-sonnet,mistral-medium,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2735,gpt-3.5,gpt-4,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2736,openchat,nous-hermes-2-mixtral-8x7b-dpo,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2737,claude-3-sonnet,mistral-medium,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2738,gpt-neo,gpt-3.5,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2739,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2740,gpt-4,claude-3-sonnet,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2741,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2742,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2743,claude-3-sonnet,gpt-neo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2744,gpt-3.5,gpt-4,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2745,mistral-medium,openchat,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2746,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+2747,openchat,mistral-medium,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2748,gpt-3.5,gpt-neo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2749,gpt-4,claude-3-sonnet,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2750,gpt-neo,claude-3-sonnet,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2751,gpt-4,mistral-medium,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+2752,gpt-3.5,openchat,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2753,mistral-medium,gpt-neo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+2754,nous-hermes-2-mixtral-8x7b-dpo,claude-3-sonnet,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2755,gpt-4,nous-hermes-2-mixtral-8x7b-dpo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2756,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2757,gpt-3.5,gpt-4,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2758,nous-hermes-2-mixtral-8x7b-dpo,openchat,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2759,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2760,gpt-3.5,gpt-neo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2761,claude-3-sonnet,gpt-neo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2762,gpt-3.5,claude-3-sonnet,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2763,gpt-neo,openchat,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2764,claude-3-sonnet,openchat,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2765,openchat,gpt-neo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+2766,gpt-neo,openchat,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2767,gpt-neo,mistral-medium,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2768,nous-hermes-2-mixtral-8x7b-dpo,claude-3-sonnet,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2769,claude-3-sonnet,openchat,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2770,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2771,nous-hermes-2-mixtral-8x7b-dpo,openchat,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2772,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2773,gpt-4,nous-hermes-2-mixtral-8x7b-dpo,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2774,gpt-3.5,mistral-medium,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2775,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2776,gpt-neo,gpt-3.5,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2777,openchat,mistral-medium,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2778,nous-hermes-2-mixtral-8x7b-dpo,openchat,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2779,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2780,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2781,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2782,gpt-3.5,gpt-neo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2783,gpt-neo,mistral-medium,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+2784,gpt-neo,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2785,gpt-neo,claude-3-sonnet,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2786,gpt-3.5,openchat,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2787,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2788,gpt-3.5,gpt-neo,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2789,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2790,claude-3-sonnet,mistral-medium,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2791,gpt-neo,mistral-medium,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2792,gpt-3.5,gpt-neo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2793,gpt-4,openchat,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2794,claude-3-sonnet,mistral-medium,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2795,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2796,gpt-neo,openchat,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2797,gpt-3.5,mistral-medium,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+2798,claude-3-sonnet,gpt-3.5,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2799,gpt-3.5,claude-3-sonnet,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2800,gpt-neo,openchat,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2801,gpt-4,gpt-3.5,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2802,gpt-neo,gpt-4,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2803,openchat,mistral-medium,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2804,claude-3-sonnet,gpt-4,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2805,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2806,nous-hermes-2-mixtral-8x7b-dpo,claude-3-sonnet,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2807,gpt-3.5,nous-hermes-2-mixtral-8x7b-dpo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2808,openchat,mistral-medium,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2809,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2810,gpt-3.5,gpt-neo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2811,gpt-4,gpt-neo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2812,gpt-4,mistral-medium,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2813,nous-hermes-2-mixtral-8x7b-dpo,gpt-4,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+2814,openchat,gpt-3.5,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2815,claude-3-sonnet,openchat,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2816,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+2817,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+2818,claude-3-sonnet,gpt-neo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2819,openchat,gpt-4,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2820,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2821,gpt-4,gpt-3.5,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2822,nous-hermes-2-mixtral-8x7b-dpo,claude-3-sonnet,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2823,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,1.0,0.0
+2824,gpt-neo,openchat,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+2825,gpt-4,mistral-medium,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2826,mistral-medium,openchat,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2827,gpt-4,gpt-3.5,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2828,gpt-4,nous-hermes-2-mixtral-8x7b-dpo,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2829,gpt-neo,claude-3-sonnet,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2830,claude-3-sonnet,openchat,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2831,gpt-3.5,mistral-medium,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2832,mistral-medium,claude-3-sonnet,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2833,openchat,mistral-medium,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2834,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2835,gpt-neo,gpt-4,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2836,claude-3-sonnet,openchat,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+2837,gpt-neo,openchat,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2838,gpt-4,claude-3-sonnet,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2839,mistral-medium,claude-3-sonnet,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2840,nous-hermes-2-mixtral-8x7b-dpo,claude-3-sonnet,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,1.0,0.0
+2841,openchat,gpt-3.5,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2842,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2843,claude-3-sonnet,gpt-3.5,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2844,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2845,gpt-3.5,gpt-neo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2846,openchat,claude-3-sonnet,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,1.0,0.0
+2847,gpt-4,gpt-3.5,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2848,mistral-medium,claude-3-sonnet,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2849,gpt-3.5,gpt-4,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2850,gpt-4,claude-3-sonnet,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2851,gpt-4,mistral-medium,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+2852,gpt-4,gpt-3.5,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2853,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2854,claude-3-sonnet,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2855,claude-3-sonnet,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2856,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2857,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2858,gpt-neo,gpt-4,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2859,gpt-3.5,nous-hermes-2-mixtral-8x7b-dpo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+2860,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2861,claude-3-sonnet,openchat,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2862,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2863,gpt-3.5,claude-3-sonnet,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2864,claude-3-sonnet,gpt-4,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2865,gpt-3.5,gpt-neo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2866,mistral-medium,gpt-neo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2867,nous-hermes-2-mixtral-8x7b-dpo,openchat,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2868,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2869,claude-3-sonnet,gpt-4,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2870,mistral-medium,claude-3-sonnet,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2871,gpt-3.5,gpt-4,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2872,gpt-neo,mistral-medium,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2873,openchat,nous-hermes-2-mixtral-8x7b-dpo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2874,openchat,mistral-medium,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2875,gpt-neo,mistral-medium,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2876,openchat,nous-hermes-2-mixtral-8x7b-dpo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2877,nous-hermes-2-mixtral-8x7b-dpo,openchat,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2878,gpt-3.5,gpt-4,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2879,openchat,gpt-3.5,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2880,openchat,nous-hermes-2-mixtral-8x7b-dpo,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2881,openchat,mistral-medium,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2882,gpt-4,gpt-3.5,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2883,nous-hermes-2-mixtral-8x7b-dpo,openchat,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2884,gpt-4,nous-hermes-2-mixtral-8x7b-dpo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+2885,gpt-neo,claude-3-sonnet,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2886,gpt-4,mistral-medium,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2887,nous-hermes-2-mixtral-8x7b-dpo,gpt-4,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2888,openchat,gpt-4,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2889,openchat,mistral-medium,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2890,claude-3-sonnet,gpt-3.5,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2891,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2892,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2893,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2894,claude-3-sonnet,gpt-4,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2895,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2896,nous-hermes-2-mixtral-8x7b-dpo,claude-3-sonnet,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2897,gpt-4,claude-3-sonnet,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2898,gpt-3.5,openchat,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2899,claude-3-sonnet,openchat,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2900,openchat,claude-3-sonnet,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2901,openchat,claude-3-sonnet,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2902,gpt-3.5,mistral-medium,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+2903,gpt-neo,claude-3-sonnet,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2904,mistral-medium,gpt-3.5,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+2905,nous-hermes-2-mixtral-8x7b-dpo,claude-3-sonnet,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2906,mistral-medium,gpt-3.5,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2907,gpt-3.5,nous-hermes-2-mixtral-8x7b-dpo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2908,gpt-4,openchat,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2909,gpt-4,claude-3-sonnet,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2910,gpt-4,mistral-medium,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2911,mistral-medium,claude-3-sonnet,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2912,mistral-medium,claude-3-sonnet,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2913,gpt-3.5,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2914,claude-3-sonnet,mistral-medium,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2915,mistral-medium,gpt-neo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2916,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2917,claude-3-sonnet,openchat,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2918,gpt-4,openchat,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2919,mistral-medium,openchat,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2920,mistral-medium,gpt-neo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+2921,claude-3-sonnet,openchat,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2922,nous-hermes-2-mixtral-8x7b-dpo,gpt-4,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2923,gpt-4,claude-3-sonnet,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2924,claude-3-sonnet,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2925,claude-3-sonnet,openchat,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+2926,gpt-4,mistral-medium,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2927,gpt-3.5,gpt-neo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2928,gpt-neo,mistral-medium,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2929,claude-3-sonnet,openchat,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,1.0,0.0
+2930,openchat,gpt-4,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2931,claude-3-sonnet,gpt-neo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2932,mistral-medium,openchat,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2933,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2934,gpt-3.5,gpt-neo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2935,gpt-3.5,claude-3-sonnet,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2936,openchat,gpt-3.5,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2937,gpt-4,openchat,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+2938,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2939,mistral-medium,gpt-neo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2940,gpt-4,gpt-3.5,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2941,gpt-neo,gpt-3.5,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,1.0,0.0
+2942,mistral-medium,gpt-neo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2943,gpt-4,gpt-3.5,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2944,nous-hermes-2-mixtral-8x7b-dpo,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2945,gpt-4,gpt-neo,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+2946,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+2947,gpt-3.5,gpt-4,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+2948,mistral-medium,gpt-neo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,1.0,0.0
+2949,nous-hermes-2-mixtral-8x7b-dpo,openchat,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2950,gpt-neo,claude-3-sonnet,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2951,gpt-4,openchat,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2952,nous-hermes-2-mixtral-8x7b-dpo,gpt-4,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2953,gpt-4,nous-hermes-2-mixtral-8x7b-dpo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2954,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+2955,gpt-neo,claude-3-sonnet,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2956,mistral-medium,claude-3-sonnet,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+2957,gpt-3.5,gpt-neo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,0.0,1.0
+2958,openchat,gpt-3.5,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2959,gpt-3.5,openchat,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2960,openchat,nous-hermes-2-mixtral-8x7b-dpo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2961,mistral-medium,gpt-neo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2962,gpt-3.5,mistral-medium,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2963,openchat,gpt-4,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,1.0,0.0
+2964,openchat,nous-hermes-2-mixtral-8x7b-dpo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2965,openchat,gpt-4,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2966,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2967,gpt-neo,gpt-4,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+2968,gpt-4,gpt-3.5,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2969,openchat,gpt-3.5,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2970,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+2971,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2972,mistral-medium,gpt-neo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2973,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2974,gpt-3.5,openchat,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2975,gpt-neo,mistral-medium,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+2976,mistral-medium,gpt-4,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+2977,gpt-3.5,nous-hermes-2-mixtral-8x7b-dpo,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+2978,claude-3-sonnet,gpt-3.5,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+2979,gpt-3.5,gpt-4,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+2980,gpt-4,openchat,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2981,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+2982,gpt-neo,mistral-medium,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2983,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2984,mistral-medium,openchat,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+2985,gpt-4,gpt-3.5,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2986,openchat,claude-3-sonnet,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+2987,nous-hermes-2-mixtral-8x7b-dpo,openchat,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+2988,gpt-3.5,mistral-medium,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+2989,gpt-4,claude-3-sonnet,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2990,mistral-medium,openchat,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2991,openchat,gpt-neo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+2992,gpt-3.5,mistral-medium,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+2993,gpt-3.5,claude-3-sonnet,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2994,gpt-4,claude-3-sonnet,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+2995,gpt-4,claude-3-sonnet,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2996,mistral-medium,openchat,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+2997,openchat,claude-3-sonnet,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+2998,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+2999,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+3000,openchat,mistral-medium,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,1.0,0.0
+3001,openchat,gpt-3.5,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+3002,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+3003,gpt-3.5,openchat,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+3004,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+3005,openchat,gpt-4,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+3006,claude-3-sonnet,gpt-3.5,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+3007,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+3008,gpt-neo,gpt-4,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+3009,mistral-medium,gpt-4,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+3010,gpt-3.5,openchat,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+3011,gpt-neo,openchat,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+3012,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+3013,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+3014,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+3015,nous-hermes-2-mixtral-8x7b-dpo,openchat,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+3016,gpt-neo,claude-3-sonnet,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+3017,gpt-4,claude-3-sonnet,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+3018,gpt-3.5,claude-3-sonnet,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+3019,gpt-3.5,gpt-neo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+3020,openchat,gpt-neo,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,1.0,0.0,0.0
+3021,gpt-4,gpt-3.5,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,0.0,1.0
+3022,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+3023,gpt-4,gpt-neo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+3024,gpt-neo,claude-3-sonnet,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+3025,claude-3-sonnet,mistral-medium,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+3026,gpt-4,mistral-medium,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+3027,nous-hermes-2-mixtral-8x7b-dpo,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+3028,gpt-4,openchat,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+3029,gpt-3.5,claude-3-sonnet,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+3030,claude-3-sonnet,mistral-medium,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+3031,mistral-medium,claude-3-sonnet,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+3032,openchat,nous-hermes-2-mixtral-8x7b-dpo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,0.0,1.0
+3033,gpt-neo,gpt-4,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+3034,mistral-medium,gpt-3.5,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+3035,gpt-4,gpt-neo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+3036,mistral-medium,openchat,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+3037,openchat,claude-3-sonnet,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+3038,claude-3-sonnet,gpt-4,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+3039,nous-hermes-2-mixtral-8x7b-dpo,openchat,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+3040,openchat,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,1.0,0.0
+3041,claude-3-sonnet,mistral-medium,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+3042,nous-hermes-2-mixtral-8x7b-dpo,openchat,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+3043,openchat,mistral-medium,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+3044,gpt-neo,mistral-medium,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+3045,nous-hermes-2-mixtral-8x7b-dpo,mistral-medium,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+3046,claude-3-sonnet,gpt-3.5,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+3047,claude-3-sonnet,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+3048,nous-hermes-2-mixtral-8x7b-dpo,gpt-neo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+3049,gpt-3.5,mistral-medium,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+3050,openchat,mistral-medium,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+3051,openchat,gpt-neo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+3052,gpt-neo,gpt-4,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+3053,openchat,gpt-4,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+3054,gpt-4,openchat,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+3055,gpt-neo,gpt-3.5,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,1.0,0.0,0.0
+3056,gpt-3.5,claude-3-sonnet,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+3057,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,1.0,0.0
+3058,openchat,gpt-3.5,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+3059,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,1.0,0.0,0.0
+3060,claude-3-sonnet,gpt-3.5,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+3061,claude-3-sonnet,gpt-4,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+3062,claude-3-sonnet,mistral-medium,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+3063,gpt-neo,gpt-4,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,1.0,0.0,0.0
+3064,openchat,gpt-4,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+3065,gpt-4,gpt-3.5,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,0.0,1.0
+3066,nous-hermes-2-mixtral-8x7b-dpo,claude-3-sonnet,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+3067,claude-3-sonnet,gpt-3.5,Describe a city parade.,Kids watch a fun parade.,Parade has vivid scenes.,0.0,1.0,0.0
+3068,gpt-neo,openchat,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+3069,gpt-neo,gpt-3.5,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+3070,mistral-medium,claude-3-sonnet,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,0.0,1.0
+3071,nous-hermes-2-mixtral-8x7b-dpo,claude-3-sonnet,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+3072,claude-3-sonnet,openchat,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,1.0,0.0,0.0
+3073,gpt-4,gpt-neo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+3074,claude-3-sonnet,openchat,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,1.0,0.0
+3075,claude-3-sonnet,gpt-4,What is blockchain?,A digital ledger tech.,Secure and open ledger.,1.0,0.0,0.0
+3076,nous-hermes-2-mixtral-8x7b-dpo,openchat,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,1.0,0.0
+3077,gpt-3.5,gpt-neo,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+3078,claude-3-sonnet,mistral-medium,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+3079,gpt-neo,mistral-medium,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,0.0,1.0
+3080,gpt-4,nous-hermes-2-mixtral-8x7b-dpo,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+3081,gpt-4,gpt-3.5,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+3082,gpt-4,mistral-medium,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+3083,openchat,nous-hermes-2-mixtral-8x7b-dpo,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,1.0,0.0,0.0
+3084,gpt-4,gpt-3.5,Describe your favorite book.,A tale of adventure.,Hero journeys through trials.,0.0,0.0,1.0
+3085,mistral-medium,nous-hermes-2-mixtral-8x7b-dpo,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+3086,gpt-neo,nous-hermes-2-mixtral-8x7b-dpo,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+3087,openchat,claude-3-sonnet,Explain the role of AI in healthcare.,AI aids fast diagnosis.,AI boosts checkups speed.,0.0,1.0,0.0
+3088,gpt-neo,gpt-4,How does a car engine work?,Fuel powers engine parts.,Pistons move from combustion.,0.0,1.0,0.0
+3089,nous-hermes-2-mixtral-8x7b-dpo,claude-3-sonnet,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,1.0,0.0,0.0
+3090,gpt-3.5,mistral-medium,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,1.0,0.0,0.0
+3091,gpt-neo,gpt-4,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,0.0,1.0
+3092,gpt-3.5,openchat,What is quantum computing?,It uses qubits to compute.,Quantum bits store data.,0.0,1.0,0.0
+3093,gpt-3.5,mistral-medium,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,1.0,0.0,0.0
+3094,nous-hermes-2-mixtral-8x7b-dpo,gpt-4,What causes rainbows?,Light bends through rain.,Raindrops bend light beams.,0.0,1.0,0.0
+3095,nous-hermes-2-mixtral-8x7b-dpo,gpt-3.5,What is blockchain?,A digital ledger tech.,Secure and open ledger.,0.0,1.0,0.0
+3096,nous-hermes-2-mixtral-8x7b-dpo,gpt-4,Explain climate change simply.,Heat traps in atmosphere.,Gases warm the planet.,0.0,0.0,1.0
+3097,claude-3-sonnet,gpt-4,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
+3098,gpt-3.5,openchat,Describe a peaceful morning.,Birds chirp in calm air.,Sunrise brings quiet peace.,0.0,0.0,1.0
+3099,claude-3-sonnet,gpt-3.5,Why is the sky blue?,Blue light is scattered.,Sky spreads blue waves.,0.0,1.0,0.0
